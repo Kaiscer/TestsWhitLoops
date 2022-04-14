@@ -1,2 +1,2 @@
 # TestWhitLoops
-Classroom in the classroom
+Competence in the classroom
